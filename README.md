@@ -18,3 +18,6 @@
 
 ![image](https://user-images.githubusercontent.com/81262787/236277780-323bb4ba-ccc2-413d-9422-db66fd2840bb.png)
 
+**>Задание 5 результаты**
+
+![image](https://user-images.githubusercontent.com/81262787/236673580-2d8cfb19-debd-4fb6-8d4a-d5c2ff125221.png)
